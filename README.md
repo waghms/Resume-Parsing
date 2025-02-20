@@ -1,7 +1,7 @@
 # Resume Parser using OpenAI
 
 ## Introduction
-This project is a **Resume Parsing** tool that extracts structured data from resumes using **OpenAI** and other NLP techniques. It can parse resumes in various formats like **PDF, DOCX, TXT**, and convert them into structured JSON data.
+This project is a **Resume Parsing** tool that extracts structured data from resumes using **OpenAI** and other NLP techniques. It can parse resumes in various formats like **PDF**, and convert them into structured JSON data.
 
 ## Features
 - 📝 Extracts Name, Contact Details, Skills, Experience, and Education
